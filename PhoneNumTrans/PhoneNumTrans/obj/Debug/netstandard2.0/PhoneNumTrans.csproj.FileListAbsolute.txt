@@ -1,0 +1,13 @@
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\bin\Debug\netstandard2.0\PhoneNumTrans.deps.json
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\bin\Debug\netstandard2.0\PhoneNumTrans.dll
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\bin\Debug\netstandard2.0\ref\PhoneNumTrans.dll
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\bin\Debug\netstandard2.0\PhoneNumTrans.pdb
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\PhoneNumTrans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\PhoneNumTrans.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\PhoneNumTrans.AssemblyInfo.cs
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\PhoneNumTrans.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\PhoneNumTrans.dll
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\ref\PhoneNumTrans.dll
+C:\Users\visha\source\repos\PhoneNumTrans\PhoneNumTrans\PhoneNumTrans\obj\Debug\netstandard2.0\PhoneNumTrans.pdb
